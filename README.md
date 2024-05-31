@@ -1,10 +1,10 @@
-Live Project Link: https://book-recommendation-system-vrod.onrender.com/
-
 # Book Recommendation System
 
 ## Project Description
 
 The Book Recommendation System is an end-to-end solution that integrates advanced technologies to deliver personalized book recommendations. This project leverages data processing, machine learning, and full-stack development to create a seamless user experience. The system is designed to analyze user preferences and provide tailored book suggestions based on similarity measures.
+
+Live Project Link: https://book-recommendation-system-vrod.onrender.com/
 
 ## Technologies Used
 
